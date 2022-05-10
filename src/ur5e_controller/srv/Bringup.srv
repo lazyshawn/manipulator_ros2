@@ -1,0 +1,4 @@
+string target_ip
+uint16 port_index
+---
+uint8 robot_state
